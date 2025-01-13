@@ -1,13 +1,13 @@
-YouTube Skeleton Clone
+#  YouTube Skeleton Clone
 
 This project is a simplified YouTube clone developed as part of a Full Stack Development course. The goal is to implement core YouTube functionalities, focusing on learning and scalability rather than creating a production-ready system.
 
-Features
-	•	User sign-in/out with Google accounts (via Firebase Auth).
-	•	Authenticated users can upload videos.
-	•	Videos are transcoded to multiple formats (e.g., 360p, 720p).
-	•	All users (authenticated or not) can view a list of uploaded videos.
-	•	Individual video playback is available to all users.
+## Features
+- **User sign-in/out with Google accounts (via Firebase Auth).**
+- **Authenticated users can upload videos.**
+- **Videos are transcoded to multiple formats (e.g., 360p, 720p).**
+- **All users (authenticated or not) can view a list of uploaded videos.**
+- **Individual video playback is available to all users.**
 
 High-Level Architecture
 
