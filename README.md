@@ -20,6 +20,8 @@ The system is built using Google Cloud Platform services for scalability and sim
 - **Web Client: A Next.js application hosted on Cloud Run serves as the frontend.**
 - **Authentication: Firebase Auth manages user authentication and Google Sign-In.**
 
+![YouTube Clone Architecture](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/2d33be5f-6a51-4475-6975-7350d9d3d700/public)
+
 ## Detailed Design
 
 1. User Authentication
