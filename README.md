@@ -1,6 +1,6 @@
 #  YouTube Skeleton Clone
 
-This project is a simplified YouTube clone developed as part of a Full Stack Development course. The goal is to implement core YouTube functionalities, focusing on learning and scalability rather than creating a production-ready system.
+This project is a simplified YouTube clone. The goal is to implement core YouTube functionalities, focusing on learning and scalability rather than creating a production-ready system.
 
 ## Features
 - **User sign-in/out with Google accounts (via Firebase Auth).**
