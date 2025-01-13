@@ -1,0 +1,36 @@
+{
+  "name": "video-processing-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "serve": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhichebiyam/youtube-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abhichebiyam/youtube-clone/issues"
+  },
+  "homepage": "https://github.com/abhichebiyam/youtube-clone#readme",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/storage": "^7.15.0",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.0.2",
+    "fluent-ffmpeg": "^2.1.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/fluent-ffmpeg": "^2.1.27",
+    "@types/node": "^22.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
