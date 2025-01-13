@@ -50,8 +50,8 @@ The system is built using Google Cloud Platform services for scalability and sim
 - **Introduce content moderation checks.**
 
 ## References
-- **Firebase Auth**
-- **Cloud Storage Signed URLs**
-- **Pub/Sub Push Subscriptions**
-- **Using Pub/Sub with Cloud Storage**
-- **Using Pub/Sub with Cloud Run**
+- [Firebase Auth](https://firebase.google.com/docs/auth)
+- [Cloud Storage Signed URLs](https://cloud.google.com/storage/docs/access-control/signed-urls)
+- [Pub/Sub Push Subscriptions](https://cloud.google.com/pubsub/docs/push)
+- [Using Pub/Sub with Cloud Storage](https://cloud.google.com/storage/docs/pubsub-notifications)
+- [Using Pub/Sub with Cloud Run](https://cloud.google.com/run/docs/tutorials/pubsub)
